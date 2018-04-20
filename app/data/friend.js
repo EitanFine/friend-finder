@@ -16,10 +16,8 @@ var friendList = [
       "3",
       "4"
     ]
-  }
-]
+  },
 
-var friendList = [
   {
     name: 'Justin Bieber',
     profilePic: 'https://images-na.ssl-images-amazon.com/images/I/61IgxSXUr+L.png',
